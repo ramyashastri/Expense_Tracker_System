@@ -1,4 +1,5 @@
 #Features
+
 User Authentication
 Interactive Dashboard
 Add/Edit Income & Expenses
@@ -9,6 +10,7 @@ Admin Panel
 Data Security and Backup
 
 #Technologies
+
 Frontend
 HTML
 CSS
